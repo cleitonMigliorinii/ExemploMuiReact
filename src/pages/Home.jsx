@@ -7,8 +7,6 @@ export default function Home() {
     const loading = false;
     const error = null;
 
-
-
     if (loading) {
         return (
             <Box
